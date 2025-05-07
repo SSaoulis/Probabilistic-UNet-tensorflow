@@ -1,3 +1,4 @@
 LIDC-IDRI-slices
 .git
 .venv
+__pycache__
